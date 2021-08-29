@@ -1,0 +1,2 @@
+rootProject.name = "Data_Parsing_LabProgram-6"
+include ':app'
