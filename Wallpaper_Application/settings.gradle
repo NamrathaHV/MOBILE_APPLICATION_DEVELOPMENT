@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Wallpaper_Application_lab4"
